@@ -1,6 +1,6 @@
-Referenced from [here](https://www.twilio.com/blog/audio-visualisation-web-audio-api--react).
+Live example can be found [here](https://hon9lin.github.io/audio-input-visualizer-react).
 
-It's live here: https://hon9lin.github.io/audio-input-visualizer-react
+Referenced from [here](https://www.twilio.com/blog/audio-visualisation-web-audio-api--react).
 
 # React + Web Audio
 
