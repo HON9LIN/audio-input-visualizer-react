@@ -1,5 +1,7 @@
 Referenced from [here](https://www.twilio.com/blog/audio-visualisation-web-audio-api--react).
 
+It's live here: https://hon9lin.github.io/audio-input-visualizer-react
+
 # React + Web Audio
 
 This is an example application that shows how to visualise audio from the microphone using the Web Audio API in React.
